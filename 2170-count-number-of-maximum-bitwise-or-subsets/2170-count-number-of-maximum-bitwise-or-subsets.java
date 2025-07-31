@@ -1,7 +1,7 @@
 class Solution {
     public int countMaxOrSubsets(int[] nums) {
         int n = nums.length;
-        //using Recurion: T.C ==>O(2^n), S.C==> Stack space, Recursive stack calls,can be solved using other
+        //using Recurion: T.C ==>O(2^n), S.C==> Stack space, Recursive stack calls,can be solved using other metods
          int maxXor = 0;
 
         for(int num: nums){
