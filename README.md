@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -53,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 <!---LeetCode Topics End-->
