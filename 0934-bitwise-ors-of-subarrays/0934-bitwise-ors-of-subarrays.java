@@ -1,6 +1,6 @@
 class Solution {
     public int subarrayBitwiseORs(int[] arr) {
-        // int ans =0;
+        
 
         int n = arr.length;
         Set<Integer> subarrayBitwiseORs = new HashSet<>();
