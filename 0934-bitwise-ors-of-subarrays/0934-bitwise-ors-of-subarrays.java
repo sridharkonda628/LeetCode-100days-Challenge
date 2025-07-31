@@ -2,13 +2,13 @@ class Solution {
     public int subarrayBitwiseORs(int[] arr) {
         
 
-        int n1 = arr.length;
+        int n = arr.length;
         Set<Integer> subarrayBitwiseORs = new HashSet<>();
        
         Set<Integer> curr = new HashSet<>();
         curr.add(0);
 
-        for(int i=0;i<n1;i++){
+        for(int i=0;i<n;i++){
             Set<Integer> curr2 = new HashSet<>();
            
            for(int y : curr){
