@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Prefix Sum
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -111,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
