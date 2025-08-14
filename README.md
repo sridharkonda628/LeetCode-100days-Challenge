@@ -128,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
+## String
+|  |
+| ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2346-largest-3-same-digit-number-in-string) |
 <!---LeetCode Topics End-->
