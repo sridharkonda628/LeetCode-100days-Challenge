@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1448-maximum-69-number) |
 | [2689-rearranging-fruits](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Segment Tree
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
+| [1448-maximum-69-number](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1448-maximum-69-number) |
 ## Probability and Statistics
 |  |
 | ------- |
