@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2529-range-product-queries-of-powers) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1448-maximum-69-number) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Probability and Statistics
 |  |
 | ------- |
