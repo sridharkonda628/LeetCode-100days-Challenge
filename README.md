@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0934-bitwise-ors-of-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0940-fruit-into-baskets) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1628-count-submatrices-with-all-ones) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1628-count-submatrices-with-all-ones) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Sort
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1628-count-submatrices-with-all-ones) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Math
 |  |
@@ -149,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2346-largest-3-same-digit-number-in-string) |
+## Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1628-count-submatrices-with-all-ones) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1628-count-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
