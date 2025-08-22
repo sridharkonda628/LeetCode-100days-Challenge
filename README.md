@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0118-pascals-triangle) |
+| [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Stack
 |  |
@@ -162,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1628-count-submatrices-with-all-ones) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
