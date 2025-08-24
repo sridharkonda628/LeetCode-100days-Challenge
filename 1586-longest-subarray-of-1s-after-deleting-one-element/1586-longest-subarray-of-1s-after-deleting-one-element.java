@@ -22,9 +22,7 @@ class Solution {
         if(arr[len-1]==len){
             return len-1;
         }
-        for(int num : arr){
-            System.out.print(num+" ");
-        }
+        
         int temp = arr[len-1];
         for(int i=len-1;i>0;i--){
             if(arr[i]!=0){
@@ -33,10 +31,7 @@ class Solution {
                 temp = arr[i-1];
             }
         }
-
-        for(int num : arr){
-            System.out.print(num+" ");
-        }
+        //after deletion  we can get the maximum when pattern looks like [....1.0.1]
         int ans = 0 ;
         for(int i=1;i<len-1;i++){
             if(nums[i]==0){
@@ -45,9 +40,8 @@ class Solution {
                 }
             }
         }
-        // if(flg){
-            return Math.max(ans,maxi);
-        // }
-        // return M;
+       
+        return Math.max(ans,maxi);
+       
     }
 }
