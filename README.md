@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1628-count-submatrices-with-all-ones) |
+| [1917-maximum-average-pass-ratio](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1448-maximum-69-number) |
+| [1917-maximum-average-pass-ratio](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Segment Tree
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1917-maximum-average-pass-ratio](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1917-maximum-average-pass-ratio) |
 <!---LeetCode Topics End-->
