@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0679-24-game](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1006-vowel-spellchecker) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0037-sudoku-solver) |
 | [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0940-fruit-into-baskets) |
+| [1006-vowel-spellchecker](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1006-vowel-spellchecker) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2689-rearranging-fruits](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
+| [1006-vowel-spellchecker](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1006-vowel-spellchecker) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3462-vowels-game-in-a-string) |
