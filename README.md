@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1834-minimum-number-of-people-to-teach](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2429-design-a-food-rating-system](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2689-rearranging-fruits) |
+| [3678-design-task-manager](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3678-design-task-manager) |
 ## Geometry
 |  |
 | ------- |
@@ -267,4 +270,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2429-design-a-food-rating-system) |
+| [3678-design-task-manager](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3678-design-task-manager) |
 <!---LeetCode Topics End-->
