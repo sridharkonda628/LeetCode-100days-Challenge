@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
 | [1006-vowel-spellchecker](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0165-compare-version-numbers](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0165-compare-version-numbers) |
 | [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
 ## Memoization
 |  |
