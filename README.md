@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0037-sudoku-solver) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1006-vowel-spellchecker) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0342-power-of-four) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0165-compare-version-numbers](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
 | [1006-vowel-spellchecker](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1264-maximum-number-of-words-you-can-type) |
