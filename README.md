@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0037-sudoku-solver) |
 | [0118-pascals-triangle](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0120-triangle) |
 | [0498-diagonal-traverse](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0498-diagonal-traverse) |
 | [0679-24-game](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0120-triangle) |
 | [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0867-new-21-game) |
