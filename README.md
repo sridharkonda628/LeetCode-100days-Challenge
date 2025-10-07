@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1612-avoid-flood-in-the-city](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [1628-count-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1917-maximum-average-pass-ratio) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0940-fruit-into-baskets) |
 | [1006-vowel-spellchecker](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1612-avoid-flood-in-the-city](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2023-design-movie-rental-system](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2429-design-a-food-rating-system) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0611-valid-triangle-number) |
 | [1018-largest-perimeter-triangle](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1448-maximum-69-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2689-rearranging-fruits) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0611-valid-triangle-number](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0611-valid-triangle-number) |
 | [0794-swim-in-rising-water](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3790-fruits-into-baskets-ii) |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0794-swim-in-rising-water) |
+| [1612-avoid-flood-in-the-city](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1612-avoid-flood-in-the-city) |
 | [1917-maximum-average-pass-ratio](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2023-design-movie-rental-system) |
 | [2429-design-a-food-rating-system](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2429-design-a-food-rating-system) |
