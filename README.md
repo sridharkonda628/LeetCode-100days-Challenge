@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2429-design-a-food-rating-system](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2689-rearranging-fruits) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3678-design-task-manager) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3797-design-spreadsheet) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3790-fruits-into-baskets-ii](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3791-fruits-into-baskets-iii) |
 | [3827-implement-router](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3827-implement-router) |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/1628-count-submatrices-with-all-ones) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Sort
@@ -265,12 +269,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2887-sort-vowels-in-a-string) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0900-reordered-power-of-2) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## String
 |  |
@@ -303,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0611-valid-triangle-number) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Memoization
 |  |
 | ------- |
