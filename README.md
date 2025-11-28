@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0006-zigzag-conversion) |
 | [0165-compare-version-numbers](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0166-fraction-to-recurring-decimal) |
 | [0392-is-subsequence](https://github.com/sridharkonda628/LeetCode-100days-Challenge/tree/master/0392-is-subsequence) |
